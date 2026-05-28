@@ -1,0 +1,16 @@
+comp t::64
+imp:bsc_set
+rgpl main {
+  style {
+    style[style.run84x]
+  }
+  run.window.reactive {
+    disp.txt.string["Welcome to Trival Browser."]
+    disp.txt.button.string["START"] {
+      if[in.click.left] {
+        disp.open[interface.run84x]
+        }
+    }
+    
+  }
+}
