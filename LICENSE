@@ -1,0 +1,29 @@
+
+Restricted Use Software Terms License (RUSTL)
+Copyright (c) 2026 Stefan Chives
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Software and any associated documentation files (the Software), to copy, modify, and distribute the Software, subject to the following conditions:
+
+1. Retention of the Notice
+Redistributions of the Software must retain the copyright notice above, the conditions of this License, and the following disclaimer of warranty.
+2. Binary Redistribution
+All redistributions of the Software in binary form must contain the above copyright notice, the conditions of this License, and the following disclaimer of warranty.
+3. No Endorsement
+Neither the name nor the names of its contributors may be used to promote products from this Software without any prior written permission.
+4. License Modification Rights
+The copyright holder reserves the right to publish revised or updated versions of this License. However, such revisions shall not retroactively apply to copies of the Software already distributed under a previous version of this License.
+5. Restriction on Artificial Intelligence Use
+The Software, in whole or in part, may not be used for the purpose of training, fine-tuning, or improving any machine learning models, artificial intelligence systems, or similar technologies.
+This restriction includes, but is not limited to:
+    - Use in datasets for training or evaluation
+    - Automated code ingestion by learning systems
+    - Derivative works intended for artificial intelligence training purposes
+6. No Circumvention
+You may not modify, transform, or distribute the Software in any way intended to circumvent the restrictions defined in this License.
+7. Termination
+Any violations of these terms will automatically terminate the rights granted under this License.
+
+Disclaimer of Warranty
+THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+Limitation of Liability
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
